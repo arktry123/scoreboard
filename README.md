@@ -10,3 +10,5 @@
  Note: The additional task of pushing messages was not done here. I have done some 
  googling about that and came across STOPM messaging. But not very confident about the same
 , and hence left it as it is mentioned as an additional task. 
+
+PS: have done the commit all at once. I would normally do many commits - as and when a specific functionality works fine.
